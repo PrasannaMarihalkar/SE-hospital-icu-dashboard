@@ -1,1 +1,17 @@
-# SE-hospital-icu-dashboard
+# SE Hospital ICU Dashboard
+
+Software Engineering laboratory work for the Hospital Bed & ICU Allocation Dashboard.
+
+## Student
+
+**Name:** Prasanna Chidambar Marihalkar  
+**SRN:** PES1UG24CS684
+
+## Project
+
+**Hospital Bed & ICU Allocation Dashboard**
+
+## Labs
+
+- [Lab 1](./Lab1)
+- [Lab 2](./Lab2)
