@@ -1,36 +1,51 @@
-Lab 2 - Agile Backlog Creation & Sprint Simulation in Jira
+# Lab 2 - Agile Backlog Creation & Sprint Simulation in Jira
 
-Student: Prasanna Chidambar Marihalkar
-SRN: PES1UG24CS684
-Project: Hospital Bed & ICU Allocation Dashboard
+## Student Details
 
-Deliverables
+**Name:** Prasanna Chidambar Marihalkar  
+**SRN:** PES1UG24CS684  
+**Project:** Hospital Bed & ICU Allocation Dashboard
 
-EPICs.pdf
+## Objective
 
-Burndown_Chart.pdf
+To create an Agile backlog in Jira using Epics and User Stories, estimate and prioritize the stories, run two sprints, and analyse the sprint progress using the Burndown Chart.
 
-Reflection.pdf
+## Work Completed
 
-Reflection.docx (editable copy)
+- 3 Epics created
+- 8 User Stories created
+- 30 Story Points assigned
+- Backlog prioritized by user impact
+- Sprint 1 completed
+- Sprint 2 completed
+- Sprint progress simulated using To Do → In Progress → Done
+- Sprint 2 Burndown Chart generated
+- Reflection completed
 
-Jira_Evidence.pdf
+## Sprint Details
 
-Screenshots/
+### Sprint 1
 
-Jira work
+**Stories:** SCRUM-12, SCRUM-9, SCRUM-13, SCRUM-15, SCRUM-11  
+**Story Points:** 17  
+**Duration:** 1 week  
+**Status:** Completed
 
-3 Epics
+### Sprint 2
 
-8 User Stories
+**Stories:** SCRUM-14, SCRUM-10, SCRUM-16  
+**Story Points:** 13  
+**Duration:** 1 week  
+**Status:** Completed
 
-30 Story Points
+## Files
 
-Priority order completed
+- `EPICs.pdf` - Epics, User Stories, priorities and Story Points
+- `Burndown_Chart.pdf` - Jira Sprint 2 Burndown Chart
+- `Reflection.pdf` - Reflection questions and answers
+- `Screenshots/` - Jira evidence screenshots
 
-Sprint 1 completed
+## Jira Evidence
 
-Sprint 2 completed
-
-Sprint 2 Burndown Chart generated
+The screenshots document the backlog, sprint execution and Burndown Chart used for this laboratory.
 
