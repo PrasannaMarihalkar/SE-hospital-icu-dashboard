@@ -4,7 +4,7 @@ Software Engineering laboratory work for the Hospital Bed & ICU Allocation Dashb
 
 ## Student
 
-**Name:** Prasanna Chidambar Marihalkar  
+**Name:** Prasanna Chidambar Marihalkar
 **SRN:** PES1UG24CS684
 
 ## Project
@@ -13,5 +13,6 @@ Software Engineering laboratory work for the Hospital Bed & ICU Allocation Dashb
 
 ## Labs
 
-- [Lab 1](./Lab1)
-- [Lab 2](./Lab2)
+- [Lab 1](Lab1) - Requirements Engineering & UML Use-Case Modelling
+- [Lab 2](Lab2) - Agile Backlog Creation & Sprint Simulation
+- [Lab 3](Lab3) - Component Modelling & Architectural Pattern Selection
